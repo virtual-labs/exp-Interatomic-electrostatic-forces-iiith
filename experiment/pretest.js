@@ -1,4 +1,4 @@
- /////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
 
  /////////////////////// Do not modify the below code ////////////////////////
 
@@ -89,24 +89,50 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.  Electrostatic Potential is a nonbonded interaction ", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "True", ///// Write the option 1 inside double quotes
+                b: "False", ///// Write the option 2 inside double quotes
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+{
+            question: "2. The curvature of the internuclear potential energy is related to the spring constant  ", ///// Write the question inside double quotes
+            answers: {
+                a: "True", ///// Write the option 1 inside double quotes
+                b: "False", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },
 
+{
+            question: "3.  Electrostatic potential decays rapidly with distance. ", ///// Write the question inside double quotes
+            answers: {
+                a: "True", ///// Write the option 1 inside double quotes
+                b: "False", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },
 
+{
+            question: "4. If the charge on the partcles is doubled the force is unchanged.  ", ///// Write the question inside double quotes
+            answers: {
+                a: "True", ///// Write the option 1 inside double quotes
+                b: "False", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
+			  
+{
+            question: "5. If the distance between the particles is halved,the force is quadrapoled.  ", ///// Write the question inside double quotes
+            answers: {
+                a: "True", ///// Write the option 1 inside double quotes
+                b: "False", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },
+			  
 
      ];
 
