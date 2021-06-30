@@ -1,0 +1,32 @@
+[
+{"question":"1. Electrostatic Potential is a nonbonded interaction",
+"answers":{
+            "a":"True"
+            "f":"False"
+          },
+"correctAnswer":"a"},
+
+{"question":"2. The curvature of the internuclear potential energy is related to the spring constant",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"c"},
+
+{"question":"4. If the charge on the partcles is doubled the force is unchanged.",
+"answers":{
+            "a":"True",
+            "b":"False",
+
+          },
+"correctAnswer":"b"}, 
+
+{"question":"5. If the distance between the particles is halved,the force is quadrapoled.",
+"answers":{
+            "a":"True",
+            "b":"False",
+
+          },
+"correctAnswer":"a"}
+
+]
