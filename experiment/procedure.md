@@ -2,15 +2,15 @@ There are certain parameters to be initialized and the procedure detailed here c
 
 STEP 1:Click on 'start to start the experiment.  
 
-<img src="images/Screenshot.png">  
+<img src="images/Screenshot.png" width="450" height="400">  
 
 Step 2: The charge on the both the particles can be varied by varying the position of the slider.  
 
-<img src="images/Screenshot-1.png">  
+<img src="images/Screenshot-1.png" width="450" height="400">  
 
 Step 3: The coordinates of particles can be changed by changing the position of slider, a plot of force, energy is seen.  
 
-<img src="images/Screenshot-2.png">
+<img src="images/Screenshot-2.png" width="450" height="400">
 
 
 
