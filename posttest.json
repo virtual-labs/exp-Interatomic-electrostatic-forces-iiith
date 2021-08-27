@@ -1,0 +1,16 @@
+[
+{"question":"1. If the charge on the partcles is doubled the force is unchanged.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"}, 
+
+{"question":"2. If the distance between the particles is halved,the force is quadrapoled.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}
+
+]
