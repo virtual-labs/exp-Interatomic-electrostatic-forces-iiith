@@ -1,6 +1,6 @@
 The coulomb potential is an effective pair potential is an effective pair potential that describes the interactions between the two point charges. This acts along the line connecting two charges. This is given by the following equation: 
 
-<img src="images/ief.png">  
+<img src="images/ief.png" width="350" height="150">  
 
 r - distance between the two point charges.
 
